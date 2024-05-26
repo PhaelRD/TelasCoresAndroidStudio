@@ -8,12 +8,14 @@ O ColorChanger é um aplicativo Android simples que permite aos usuários altera
 - Escolher uma cor aleatória para o fundo de tela.
 - Navegar entre telas usando botões de avançar e retroceder.
 
-## Capturas de Tela
-![Captura de Tela 1](screenshots/screenshot1.png)
-![Captura de Tela 2](screenshots/screenshot2.png)
-![Captura de Tela 3](screenshots/screenshot3.png)
-![Captura de Tela 4](screenshots/screenshot4.png)
-
 ## Instalação
 1. Clone o repositório para o seu ambiente de desenvolvimento local:
-git clone
+git clone https://github.com/PhaelRD/TelasCoresAndroidStudio
+
+2. Abra o projeto no Android Studio.
+3. Execute o aplicativo em um emulador ou dispositivo Android conectado.
+
+## Uso
+- Ao abrir o aplicativo, você verá uma tela com botões para alterar o fundo de tela para vermelho, verde ou azul.
+- Você também pode escolher uma cor aleatória clicando no botão correspondente.
+- Use os botões de avançar e retroceder para navegar entre as telas.
